@@ -2,4 +2,3 @@
 
 ![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)
 ![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)
-![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)
